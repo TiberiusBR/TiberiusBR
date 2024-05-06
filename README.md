@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [BestJobsBot](https://github.com/TiberiusBR/BestJobsBot)
 
-- 🌱 I’m currently learning **Golang, Spring and DevOps Culture**
+- 🌱 I’m currently learning **Golang and DevOps Culture**
 
 - 📫 How to reach me **souza.freire@ftc.edu.br**
 
